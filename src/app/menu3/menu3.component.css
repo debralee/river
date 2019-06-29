@@ -1,0 +1,21 @@
+p {
+  color: black;
+}
+
+.food {
+  background-color: white;
+}
+
+  .food img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+
+.form-control {
+  width: 50%;
+}
+
+form {
+  padding: 5px;
+}

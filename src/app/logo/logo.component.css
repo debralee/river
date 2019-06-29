@@ -1,0 +1,46 @@
+
+.top {
+  background-color: rgba(0, 0, 0, 0.5);
+  vertical-align: bottom;
+  padding: 20px;
+  position: relative;
+  z-index: 2;
+}
+img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.logo {
+  max-width: 125px;
+  position: relative;
+  z-index: 5;
+}
+.cart {
+  max-width: 45px;
+}
+.partner {
+  position:relative;
+  top: 20px;
+  text-align: left;
+  margin-left: 20px;
+}
+h1 {
+  color: red;
+  font-family: 'Carter One', cursive;
+  font-size: 40px;
+}
+.right{
+ position:relative;
+ top: 30px;
+ float:right;
+ color: white;
+ text-align:right;
+}
+li {
+  display: inline-block;
+  padding: 5px;
+  list-style-type: none;
+  margin: 0;
+}

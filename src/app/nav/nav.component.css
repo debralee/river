@@ -1,0 +1,30 @@
+
+.main {
+  z-index: 1;
+  position:relative;
+  top: -50px;
+}
+.navENB {
+  background-color: rgba(0, 0, 0, 0.5);
+  /*z-index: 4;
+  position: relative;
+  top: -60px;
+  color: white;*/
+}
+.main img {
+  width: 100%;
+  max-width: 1700px;
+  height: auto;
+}
+.open img {
+  width: 100%;
+  max-width: 128px;
+  height: auto;
+}
+.open p{
+  color: white;
+  text-align: center;
+}
+.space{
+  margin: 10px;
+}

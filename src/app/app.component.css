@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.page {
+  background-image: url(../assets/images/backGround.jpg);
+  background-size: cover;
+}
